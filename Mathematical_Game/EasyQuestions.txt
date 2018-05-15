@@ -1,0 +1,80 @@
+What is 8 + 3?
+A: 12
+B: 11
+C: 15
+What is 100 / 10?
+A: 15
+B: 10
+C: 27
+What is 7 x 3?
+A: 21
+B: 22
+C: 23
+What is 8 + 4?
+A: 13
+B: 12
+C: 14
+What is 9 - 3?
+A: 35
+B: 7
+C: 6
+What is 27 - 10?
+A: 12
+B: 37
+C: 17
+What is 42 + 27?
+A: 69
+B: 72
+C: 70
+What is 81/9?
+A: 9
+B: 27
+C: -9
+What is 15 / 3
+A: 3
+B: 11
+C: 5
+What is -9 x -9
+A: 72
+B: 81
+C: -81
+What is (27 - 62) x 6?
+A: -345
+B: 210
+C: -210
+What is (9 + 47) / 2?
+A: 28
+B: 26
+C: 32.5
+What is 77 x 56?
+A: 4,312
+B: 1,356
+C: 13,569
+What is 21 / 3?
+A: 6
+B: 7
+C: 9
+What is -28 x 89?
+A: -2,492
+B: 2492
+C: 4297
+What is 45 / -9?
+A: -3
+B: -5
+C: 405
+What is 90 / 10?
+A: -10
+B: 10
+C: 9
+What is 88 / 11?
+A: 11
+B: -88
+C: 8
+What is 9(squared)?
+A: 81
+B: 92
+C: 72
+What is 5(squared) + 3?
+A: 28
+B: 38
+C: 25

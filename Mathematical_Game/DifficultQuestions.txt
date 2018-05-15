@@ -1,0 +1,80 @@
+Factorise 2x + 4
+A: x(2 + 2)
+B: 2(x + 2)
+C: 4(x + 1)
+Factrose 3x(squared) - 12x
+A: 3x(1 + 2)
+B: 3x(x - 4)
+C: 2x(x + 2)
+Factorise x(squared) + 4x
+A: x(x + 4)
+B: 4(x + x)
+C: 4x(x - x)
+Factorise x(squared) + 5x + 6
+A: (x + 2)(x - 3)
+B: (5x + 3)(1 + 2)
+C: (x + 3)(x + 2)
+Factorise x(squared) + 9x + 18
+A: (x + 6)(x + 3)
+B: 2(x + 9)(x + 2)
+C: (x + 2)(x + 9)
+Factorise 2x(squared) - 5x - 3
+A: x(x + 1(2 - 3)
+B: (2x - 3(2x + 1)
+C: (2x + 1)(x - 3)
+Two numbers differ by 4, product = 221
+A: 27 and 14 or -27 and 14
+B: 17 and 13 or -13 and 17
+C: 4 and 20
+Perimeter = 46.7m, area = 126.5. Find L and W.
+A: length = 27 and width = 9
+B: length = 20 and with = 10
+C: length = 14.8 and width = 8.54
+Simultaneous Equ: 7x + y = 25, 5x - y = 11
+A:x = 3, y = 4
+B:x = 4, y = 3
+C:x = -3, y = 4
+Simultaneous Equ: 2x+13y = 36, 13x+2y = 69
+A: x = 6, y = 5
+B: x = 5, y = 2
+C: x = -5, y = -6
+What is the rule? f(x) = x - 4
+A: Subtract x fromn 4
+B: Subtract 4 from the input
+C: Add 4 to the output
+What is the rule? f(x) = x(squared) + 4
+A: Square the output and add 4
+B: Square the output and subtract 2
+C: Square the input and add 2
+f(x) = 2x for -2<= x <= 2
+A: Domain = -2<= x <= 2 Range = -3<= x <= 3
+B: Domain = -3<= x <= 3 Range = -3<= x <= 2
+C: Domain = -2<= x <= 2 Range = -1<= x <= 0
+Find the inverse of f(x) = x + 7
+A: f1(y) = y - 7 f1(x) = x - 7
+B: f1(y) = x - 8 f1(x) = y - 8
+C: f1(x) = x + 7 f1(y) = y + 7
+Find the inverse of f(x) = x/3
+A: f1(y) = y f1(x) = x
+B: f1(y) = 3y  f1(x) = 3x
+C: f1(y) = y/3 f1(x) = x/3
+Find 2 number of x - x(x + 6) = 40
+A: x = 4 OR -10
+B: x = -4 OR x = 10, x = -10 OR x = 4 
+C: x = 4 OR x = 10 , x = -4 OR x = -10
+Find values of x : x(x + 4.7) = 100.4
+A: x = 7.94 or x = -12.64
+B: x = 9.92 or x = 12.59
+C: x = 4.92 or x = 4.7
+Opposite = 4.00,Hypotenuse = 4.47 Calculate sin
+A: 0.89
+B: 0.29
+C: 1.28
+Adjacent = 2.00,Hypotenuse = 4.47 Calculate cos
+A: 0.50
+B: 0.67
+C: 0.45
+Opposite = 4.00,Adjacent = 2.00 Calculate tan
+A: 3.90
+B: 4.2
+C: 2.0
